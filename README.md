@@ -14,4 +14,5 @@ _________________
 estudando :
 Java 
 _________________
-Em gota em gota o balde enche, para tudo tem um começo. 
+Para aquilo que se aprende, nunca vai existir control Z 💓
+_________________
