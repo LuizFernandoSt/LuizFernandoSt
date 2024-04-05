@@ -1,16 +1,17 @@
-### Hi there 👋
+Eaí Galera👋
 
-<!--
-**LuizFernandoSt/LuizFernandoSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 17 anos, moro em Indaiatuba/SP e sou iniciante no universo da programação.
+Odeio sentir a sensação de que estou perdendo tempo e então por esse motivo estou sempre em constante aprendizado.
+_________________
+O que sei : 
+Inglês intermediario e
+logica de programação 
+_________________
+Se aperfeiçoando : 
+Html e
+Css 
+_________________ 
+estudando :
+Java 
+_________________
+Em gota em gota o balde enche, para tudo tem um começo. 
